@@ -1,0 +1,12 @@
+collections/ansible_collections
+configs/diffs
+playbooks/test.yml
+playbooks/test/
+templates/test.j2
+misc/scratch
+.vscode/
+inventory/test_hosts
+*/test
+**/.DS_Store
+**/network.png
+**/bootstrap.py
